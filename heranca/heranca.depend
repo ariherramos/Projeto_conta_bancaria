@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1508387794 source:c:\users\arihe\desktop\heranca\heranca\main.cpp
+	<iostream>
+	<string.h>
+	<map>
+	<utility>
+	"Conta.h"
+
+1508380077 source:c:\users\arihe\desktop\heranca\heranca\src\banco.cpp
+	"Banco.h"
+
+1508375048 c:\users\arihe\desktop\heranca\heranca\include\banco.h
+	<iostream>
+	"Conta.h"
+
+1508387753 c:\users\arihe\desktop\heranca\heranca\include\conta.h
+	<iostream>
+	<sstream>
+	<vector>
+
+1508374152 source:c:\users\arihe\desktop\heranca\heranca\src\conta.cpp
+	"Conta.h"
+
